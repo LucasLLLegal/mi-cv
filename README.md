@@ -1,66 +1,82 @@
-LUCAS LÓPEZ LAGO
-📍 Madrid, España | ✉️ [lucaslopezlago3@gmail.com](mailto:lucaslopezlago3@gmail.com) | 🔗 [LinkedIn]([https://LucasLLLegal.github.io/LucasLLLegal]
-⚖️ Abogado especializado en Propiedad Intelectual y Derecho Digital | Habilitado para el ejercicio profesional (2024)
+# LUCAS LÓPEZ LAGO
 
-🎯 PERFIL PROFESIONAL
+📍 Madrid, España | ✉️ [lucaslopezlago3@gmail.com](mailto:lucaslopezlago3@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-l%C3%B3pez-lago-9b3659232/)  
+⚖️ **Abogado especializado en Propiedad Intelectual | Derecho Digital & Compliance**  
+🎓 Habilitado para el ejercicio profesional (2024) | Colegio de Abogados de Madrid
 
-Jurista con experiencia en derecho administrativo, propiedad intelectual y compliance, destacando en:
+---
 
-Redacción de contratos y demandas en entornos digitales y tradicionales.
+## 🌟 PERFIL PROFESIONAL
+Jurista con doble especialización en **Propiedad Intelectual** y **Derecho Digital**, con experiencia en:
+- 📝 Redacción avanzada de contratos y recursos jurídicos (85% éxito en demandas)
+- 🛡️ Implementación de protocolos de **compliance** para empresas tecnológicas
+- 💼 Asesoramiento en **derechos de autor** para entidades culturales y medios digitales
+- ⚖️ Representación en procedimientos judiciales y administrativos
 
-Asesoramiento legal en derechos de autor, GDPR y compliance para empresas tecnológicas.
+---
 
-Manejo de procedimientos judiciales y reclamaciones administrativas.
+## 💼 EXPERIENCIA LABORAL
 
-💼 EXPERIENCIA LABORAL
+### **Becario en Derecho Administrativo y Laboral**  
+`Jul 2024 - Presente` | **FJC Abogados** (Madrid)  
+- Elaboración de **200+ escritos jurídicos** (demandas, recursos contencioso-administrativos, expedientes de extensión de efectos)
+- Gestión integral de **20+ expedientes** ante Administraciones Públicas
 
-Becario en Despacho de Abogados (julio 2024 – diciembre 2024)
-FJC Abogados (Madrid)
+### **Becario en Propiedad Intelectual**  
+`Nov 2022 - Mar 2023` | **Grupo PRISA** (Madrid)  
+- Negociación de **varios contratos** con discográficas (Sony, Warner)
+- Análisis comparativo de tarifas en **10 entidades de gestión** europeas
+- Redacción de informes sobre **Directiva 2019/790** (Derechos de autor digitales)
 
-Asesoramiento legal a clientes en derecho administrativo, civil y laboral.
+### **Prácticas en Derecho Civil/Penal**  
+`Jul 2021 - Ago 2021` | **Despacho Amparo Noriega** (Cádiz)  
+- Asistencia en **12 procedimientos** de familia y sucesiones
+- Redacción de **7 demandas** penales (robos, lesiones)
 
-Elaboración de demandas, recursos y escritos jurídicos con tasa de éxito del 85%.
+---
 
-Representación en juicios y gestión de reclamaciones ante la Administración.
+## 🎓 FORMACIÓN ACADÉMICA
 
-Becario en Propiedad Intelectual (noviembre 2022 – marzo 2023)
-Grupo PRISA (Madrid)
+| Título | Institución | Año |
+|--------|------------|-----|
+| **Máster en Acceso a la Abogacía** | Universidad Autónoma de Madrid | 2023-2025 |
+| **Máster en Propiedad Intelectual** <br>| UC3M | 2022-2023 |
+| **Grado en Derecho** <br> *(Itinerario en Derecho Privado)* | UC3M | 2018-2022 |
 
-Negociación de contratos de cesión de derechos de autor con discográficas internacionales.
+---
 
-Análisis de tarifas de entidades de gestión europeas y estadounidenses.
+## 🛠 HABILIDADES
 
-Implementación de políticas de compliance para contenidos audiovisuales.
+**Jurídicas**:  
+- Propiedad Intelectual (Directiva 2019/790, Ley de PI)  
+- Derecho Digital (GDPR, ePrivacy, compliance tecnológico)  
+- Litigación (Civil, Administrativo, Laboral)  
 
-Becario legal en Amparo Noriega Fernández Abogado (julio 2021 - agosto 2021)
+**Idiomas**:  
+- 🇪🇸 Español (Nativo)  
+- 🇬🇧 Inglés (C1)  
+- 🇫🇷 Francés (B2)
+- 🇮🇹 Italiano (B2)
 
-📚 FORMACIÓN
-Máster en Acceso a la Abogacía (2023-2025)
-Universidad Autónoma de Madrid
+**Tecnologías**:  
+- Microsoft 365 (Word, Excel, PowerPoint Avanzado)  
+- HTML/CSS (Básico para páginas web estáticas)  
+- Git/GitHub (Gestión de versiones)  
 
-Máster en Propiedad Intelectual (2022-2023)
-Universidad Carlos III de Madrid
+---
 
-Grado en Derecho (2018-2022)
-Universidad Carlos III de Madrid | Itinerario en Derecho Privado
+## 📚 PUBLICACIONES
 
-🛠 HABILIDADES
-Jurídicas:
-📜 Propiedad Intelectual | 🖥️ Derecho Digital | 🛡️ Compliance
+1. **"El régimen de responsabilidad de plataformas digitales"**  
+   *TFM - UC3M (2024)* | [Descargar PDF](tfm.pdf)  
+   - Análisis de TikTok bajo la Directiva 2019/790
 
-Idiomas:
-🇪🇸 Español (nativo) | 🇬🇧 Inglés (C1) | 🇫🇷 Francés (B2)
+2. **"Protección legal de personas con discapacidad"**  
+   *TFG - UC3M (2022)* | [Descargar PDF](tfg.pdf)  
+   - Reforma Ley 8/2021 y Convención ONU
 
-Tecnológicas:
-💻 HTML/CSS básico | 📊 Microsoft 365 | 🔍 Análisis de datos
+---
 
-📄 PUBLICACIONES Y TRABAJOS ACADÉMICOS
-*"El régimen de responsabilidad de plataformas digitales en la Directiva 2019/790"* (TFM, 2024).
+## 🔗 ENLACES
 
-*"Protección legal de personas con discapacidad en España" (TFG, 2022).
-
-🔗 ENLACES RELEVANTES
-🌐 Blog jurídico 🔗 [Ver mi web](https://LucasLLLegal.github.io/LucasLLLegal)  
-
-📥 Descargar CV completo en PDF 🔗 [Ver mi CV profesional](https://LucasLLLegal.github.io/mi-cv)  
-
+[🌐 Página web profesional](https://LucasLLLegal.github.io/LucasLLLegal) | [📥 Descargar CV en PDF](CV_Lucas_Lopez_Lago.pdf) | [💼 Perfil LinkedIn](https://www.linkedin.com/in/lucas-l%C3%B3pez-lago-9b3659232/)
