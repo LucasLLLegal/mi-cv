@@ -10,4 +10,4 @@
 
 ## 📚 Educación
 - **Universidad Carlos III de Madrid**  
-  *Licenciatura en Derecho (2024)*
+  *Licenciatura en Derecho (2022)*
