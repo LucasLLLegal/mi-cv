@@ -1,14 +1,14 @@
 # LUCAS LÓPEZ LAGO
 
 📍 Madrid, España | ✉️ [lucaslopezlago3@gmail.com](mailto:lucaslopezlago3@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-l%C3%B3pez-lago-9b3659232/)  
-⚖️ **Abogado especializado en Propiedad Intelectual | Derecho Digital & Compliance**  
+⚖️ **Abogado especializado en Propiedad Intelectual & Derecho Digital**  
 🎓 Habilitado para el ejercicio profesional (2024) | Colegio de Abogados de Madrid
 
 ---
 
 ## 🌟 PERFIL PROFESIONAL
 Jurista con doble especialización en **Propiedad Intelectual** y **Derecho Digital**, con experiencia en:
-- 📝 Redacción avanzada de contratos y recursos jurídicos (85% éxito en demandas)
+- 📝 Redacción avanzada de contratos y recursos jurídicos
 - 🛡️ Implementación de protocolos de **compliance** para empresas tecnológicas
 - 💼 Asesoramiento en **derechos de autor** para entidades culturales y medios digitales
 - ⚖️ Representación en procedimientos judiciales y administrativos
