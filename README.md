@@ -1,8 +1,9 @@
 LUCAS LÓPEZ LAGO
-📍 Madrid, España | ✉️ lucaslopezlago3@gmail.com | 🔗 LinkedIn
+📍 Madrid, España | ✉️ [lucaslopezlago3@gmail.com](mailto:lucaslopezlago3@gmail.com) | 🔗 [LinkedIn]([https://LucasLLLegal.github.io/LucasLLLegal]
 ⚖️ Abogado especializado en Propiedad Intelectual y Derecho Digital | Habilitado para el ejercicio profesional (2024)
 
 🎯 PERFIL PROFESIONAL
+
 Jurista con experiencia en derecho administrativo, propiedad intelectual y compliance, destacando en:
 
 Redacción de contratos y demandas en entornos digitales y tradicionales.
@@ -12,7 +13,8 @@ Asesoramiento legal en derechos de autor, GDPR y compliance para empresas tecnol
 Manejo de procedimientos judiciales y reclamaciones administrativas.
 
 💼 EXPERIENCIA LABORAL
-Becario en Despacho de Abogados (julio 2024 – presente)
+
+Becario en Despacho de Abogados (julio 2024 – diciembre 2024)
 FJC Abogados (Madrid)
 
 Asesoramiento legal a clientes en derecho administrativo, civil y laboral.
@@ -30,10 +32,10 @@ Análisis de tarifas de entidades de gestión europeas y estadounidenses.
 
 Implementación de políticas de compliance para contenidos audiovisuales.
 
-*(Incluir aquí las demás experiencias con formato similar: 3-5 puntos clave por puesto)*
+Becario legal en Amparo Noriega Fernández Abogado (julio 2021 - agosto 2021)
 
 📚 FORMACIÓN
-Máster en Acceso a la Abogacía (2023-2024)
+Máster en Acceso a la Abogacía (2023-2025)
 Universidad Autónoma de Madrid
 
 Máster en Propiedad Intelectual (2022-2023)
@@ -55,10 +57,10 @@ Tecnológicas:
 📄 PUBLICACIONES Y TRABAJOS ACADÉMICOS
 *"El régimen de responsabilidad de plataformas digitales en la Directiva 2019/790"* (TFM, 2024).
 
-"Protección legal de personas con discapacidad en España" (TFG, 2022).
+*"Protección legal de personas con discapacidad en España" (TFG, 2022).
 
 🔗 ENLACES RELEVANTES
-🌐 Blog jurídico 🔗 [Ver mi CV profesional](https://LucasLLLegal.github.io/LucasLLLegal)  
+🌐 Blog jurídico 🔗 [Ver mi web](https://LucasLLLegal.github.io/LucasLLLegal)  
 
 📥 Descargar CV completo en PDF 🔗 [Ver mi CV profesional](https://LucasLLLegal.github.io/mi-cv)  
 
