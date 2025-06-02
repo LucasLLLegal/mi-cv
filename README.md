@@ -1,5 +1,5 @@
 # mi-cv
-# [Tu Nombre]
+# Lucas López Lago
 ### 🎯 Perfil Profesional
 - Abogado especializado en Propiedad Intelectual  
 - Experiencia en derecho digital y compliance
